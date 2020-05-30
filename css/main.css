@@ -4923,8 +4923,7 @@ html body {
                   font-style: normal;
                   text-transform: uppercase;
                   color: #FFF;
-                  padding: 10px 0px;
-                  transition: padding none; }
+                  padding: 10px 0px; }
                 html body header .menu .container .row .col #navlist .nav-item:first-child {
                   margin-left: 0px; }
                   @media screen and (max-width: 992px) {
