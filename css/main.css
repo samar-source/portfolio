@@ -5450,6 +5450,15 @@ html body {
             html body #contact .list-group .list-group-item .icon-link:hover i {
               font-size: 2.16rem;
               color: #FFF; }
+    html body #contact .mail {
+      font-size: 1.5rem;
+      font-style: normal;
+      text-transform: none;
+      color: #FFF;
+      display: inline-block;
+      text-decoration: none;
+      position: relative;
+      padding: 10px 0px; }
     html body #contact .github-pages {
       font-size: 1.5rem;
       font-style: normal;
@@ -5460,15 +5469,6 @@ html body {
       position: relative;
       padding: 10px 0px;
       margin-top: 30px; }
-    html body #contact .mail {
-      font-size: 1.5rem;
-      font-style: normal;
-      text-transform: none;
-      color: #FFF;
-      display: inline-block;
-      text-decoration: none;
-      position: relative;
-      padding: 10px 0px; }
   html body #footer {
     font-size: 1.2rem;
     font-style: normal;
