@@ -5263,6 +5263,11 @@ html body {
             box-shadow: none; }
             html body #portfolio .loadMore .item .item-img:hover .mask {
               opacity: 1; }
+        html body #portfolio .loadMore .item #soft-corp {
+          background-image: url("../img/portfolio/soft-corp.jpg");
+          background-size: cover;
+          background-position: 50% 0;
+          background-repeat: no-repeat; }
         html body #portfolio .loadMore .item #client-creation-form {
           background-image: url("../img/portfolio/client-creation-form.jpg");
           background-size: cover;
